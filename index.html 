@@ -6,12 +6,12 @@
   <title>Identity Attack Path Visibility</title>
 
   <!-- GA4 -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CG4L0NB8CZ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-XXXXX');
+    gtag('config', 'G-CG4L0NB8CZ');
   </script>
 
   <style>
@@ -41,7 +41,7 @@
       <li>Security reacts after exposure, not before</li>
     </ul>
 
-    <a class="button" href="FORM_LINK" target="_blank" rel="noopener"
+    <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSfVu9xDkmOT0hgnAiZgUSLNdjT8q1w-fucUCokm3Y_BU1fX5w/viewform?usp=publish-editor" target="_blank" rel="noopener"
        onclick="gtag('event','cta_click',{event_category:'engagement'});">
       Talk to us if this sounds familiar
     </a>
